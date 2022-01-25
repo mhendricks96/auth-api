@@ -2,6 +2,8 @@
 
 Creating an authenticated API server that utilizes Role Based Access Control (RBAC) using an Access Control List (ACL)
 
+Deployment URL: https://mye-auth-api.herokuapp.com/
+
 ## Installation
 
 - `git clone https://github.com/mhendricks96/auth-api.git`
